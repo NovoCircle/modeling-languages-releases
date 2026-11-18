@@ -48,7 +48,7 @@ Section references are to the clauses and annexes of the DMN 1.2 specification (
 | Id | Strength | Checkable | Rule | Section |
 |---|---|---|---|---|
 | DMN-DRD-001 | must | static | Requirements may join only the pairs of elements in the connection table (11 pairs), and the pair of element types fixes the kind of requirement: Decision to Decision, Input Data to Decision = information; Business Knowledge Model or Decision Service to Decision or Business Knowledge Model = knowledge; Knowledge Source, Decision or Input Data to Knowledge Source, and Knowledge Source to Decision or Business Knowledge Model = authority. | 6.2.3; Table 2 |
-| DMN-DRD-002 | must | static | No requirement may be held by an Input Data element: an Input Data element requires nothing. | 6.2.3 |
+| DMN-DRD-002 | must | static | No requirement may be held by an Input Data element: an Input Data element requires nothing. Section 6.2.3 words this as a requirement drawn terminating in Input Data. | 6.2.3 |
 | DMN-DRD-003 | must | static | The Information Requirements of a valid Decision Requirements Graph form a directed acyclic graph. | 6.2.2.1 |
 | DMN-DRD-004 | must | static | The requirement subgraph of a Decision is acyclic: a Decision does not require itself, directly or through other requirements. The Decision that holds an Information Requirement must not lie in the requirement subgraph of the Decision it requires. | 6.3.7, p. 52 |
 | DMN-DRD-005 | must | static | The requirement subgraph of a Business Knowledge Model is acyclic: it does not require itself, directly or indirectly. A Business Knowledge Model holding a Knowledge Requirement must not lie in the subgraph of the knowledge it requires. | 6.3.9, pp. 56-57; 6.3.14 |

@@ -7,7 +7,7 @@ This is a summary in our own words of the sources of the requirements language. 
 1. **ISO/IEC/IEEE 29148:2018**, Systems and software engineering, Life cycle processes, Requirements engineering (Edition 2, November 2018; reviewed and confirmed 2024). It is a standard of processes and information items. It defines no metamodel and no notation. Everything attributed to it below is taken from published summaries of its clauses, not from the standard's text. The clause numbers are the standard's. The wording and strength ("shall" or "should") are not confirmed. An edition under development, DIS 29148, is expected to replace it.
 2. **OMG SysML 1.5**, clause 16, which defines the requirement relationships. Described in full by the SysML language skill (`sysml-1`); this file points to it and does not repeat it.
 
-Each section says which source a statement comes from. "Summary" means a third-party summary of the 29148 clause.
+Each section says which source a statement comes from. "Summary" means a published summary of the 29148 clause.
 
 ## 1. What the language is
 

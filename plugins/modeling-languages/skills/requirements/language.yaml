@@ -110,7 +110,7 @@ diagram_types: none-in-standard
 data_types:
   coverage: partial
   section: '5.2.8; 6.5.2.2; 9.6.18'
-  note: 'The sources define no type system: no primitive types, no unit types, no structured types, and no type for any attribute. They do name fixed or suggested value lists for a few attributes, listed here as enumerations. All of it rests on third-party summaries of 29148, not on the standard itself.'
+  note: 'The sources define no type system: no primitive types, no unit types, no structured types, and no type for any attribute. They do name fixed or suggested value lists for a few attributes, listed here as enumerations. All of it rests on published summaries of 29148, not on the standard itself.'
   types:
     - {name: Verification method, kind: enumeration, values: [inspection, analysis, demonstration, test], section: '6.5.2.2', note: 'The four standard methods. Certification, a written assurance usually from an independent party, is sometimes used instead; modeling and simulation count as analysis. Closed list in the summaries, apart from certification.'}
     - {name: Priority, kind: enumeration, values: [high, medium, low], section: '5.2.8', note: 'Or any scale the stakeholders agree on; the summaries say "on a scale". The list is a default, not a closed set.'}

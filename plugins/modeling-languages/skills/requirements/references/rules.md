@@ -10,7 +10,7 @@ No single standards body owns a requirements language. The rules come from two p
 
 | Basis | Meaning |
 |---|---|
-| iso-summary | ISO/IEC/IEEE 29148:2018, taken from third-party summaries of its clauses. Its wording of strength is not confirmed, so these rules are `should` or `note`. Section numbers are the standard's clause numbers. |
+| iso-summary | ISO/IEC/IEEE 29148:2018, taken from published summaries of its clauses. Its wording of strength is not confirmed, so these rules are `should` or `note`. Section numbers are the standard's clause numbers. |
 | sysml-skill | OMG SysML 1.5 clause 16, as described by the `sysml-1` skill. The section column quotes that skill's rule id (`SYSML-REQ-nnn`). |
 | inferred | A reading of the sources, not stated by any of them. |
 

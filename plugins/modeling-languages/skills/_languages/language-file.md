@@ -7,7 +7,7 @@ The files describe the language, never a diagramming tool. They say what the sta
 ## Rules that hold everywhere
 
 - **No tool is named,** except in a citation of where something was read. A source system that defines the language is part of the language and stays.
-- **Every fact carries its section.** A fact whose section was not read is left out and recorded as an open point by the people who maintain the guide.
+- **Every fact carries its section.** A fact is stated only with the section that defines it, so a fact you find here always names its section.
 - **Our own words.** Quotes are short.
 - **Sizes and colors appear in `notation` only if the standard states them.** Our own layout conventions sit in a separate `layout` block, labeled as ours.
 

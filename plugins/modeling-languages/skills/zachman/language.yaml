@@ -622,7 +622,7 @@ layout:
     Cell: large-box
   no_element_type:
     not_drawn:
-      reason: The standard gives this relationship no notation, so nothing is drawn.
+      reason: The framework defines no relationship notation.
       concepts:
       - CellInRow
       - CellInColumn

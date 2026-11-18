@@ -4192,7 +4192,7 @@ layout:
       reason: Each appears in a model as the reference model's data object of that name, which takes the box size.
       concepts: [DigitalProduct, ServiceOffer, ServiceContract, DigitalProductInstance]
     no_symbol:
-      reason: The figures read for this guide give these no symbol. The data objects together form the system of record, and a system is what a product instance runs on.
+      reason: The standard's figures give these no symbol. The data objects together form the system of record, and a system is what a product instance runs on.
       concepts: [SystemOfRecord, System]
   exceptions: {}
   diagram_types:

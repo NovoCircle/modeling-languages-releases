@@ -1,7 +1,7 @@
 {
   "name": "modeling-languages",
   "displayName": "Modeling Languages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Modeling Languages: one guide for each modeling language, covering its concepts, relationships, constraints, data types, how the standard draws it, and one shared layout standard for sizes and spacing. The guides describe the languages, not any diagramming tool, so any tool's skills can read them.",
   "author": {
     "name": "NovoCircle"
